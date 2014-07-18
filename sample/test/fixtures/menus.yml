@@ -1,0 +1,11 @@
+twosome_americano:
+  id: 1
+  name: "아메리카노"
+  price: 4000
+  cafe_id: 1
+
+kong_americano:
+  id: 2
+  name: "아메리카노"
+  price: 4000
+  cafe_id: 2
